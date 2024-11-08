@@ -2,7 +2,7 @@
 - 📫 How to contact me: mxh__ (Discord)
 
 ### Languages
-![My Skills](https://skillicons.dev/icons?i=c,cpp,python,lua)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python,lua,rust,swift)
 ### Databases
 ![My Skills](https://skillicons.dev/icons?i=mysql,postgresql)
 ### Tools && Shells
